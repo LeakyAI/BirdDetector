@@ -14,16 +14,14 @@ Upload your own photo and process it with the nerual network
 Approximately 1 hour
 
 ## Materials Needed
-Gmail Account
-Webroswer
+Gmail account and a webroswer
 
 ## Technologies Used
-Google Colab
-PyTorch
+Google Colab, PyTorch
 
 ## How to Get Started
 
-This is your first exercise for the course.   To get started, head over to Google Colab via this link:
+This is your f1irst exercise for the course.   To get started, head over to Google Colab via this link:
 
 https://colab.research.google.com
 
